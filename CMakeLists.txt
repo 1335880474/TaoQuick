@@ -1,6 +1,7 @@
 ﻿cmake_minimum_required(VERSION 3.14)
 project (TaoQuick LANGUAGES CXX)
 
+
 SET(CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
 
 set(CMAKE_AUTOUIC ON)
